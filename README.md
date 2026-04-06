@@ -1,5 +1,5 @@
 # RML-ASSIGNMENT-3
-# README – Fairness Analysis of Predictive Risk Models
+# Fairness Analysis of Predictive Risk Models
 
 ## Overview
 
